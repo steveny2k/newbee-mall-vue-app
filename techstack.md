@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 steveny2k/newbee-mall-vue-app is built on the following main stack:
+
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -11,11 +12,13 @@ steveny2k/newbee-mall-vue-app is built on the following main stack:
 - [vuex](https://vuex.vuejs.org) – State Management Library
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 steveny2k/newbee-mall-vue-app is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
@@ -25,14 +28,15 @@ steveny2k/newbee-mall-vue-app is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6705/6128107.png' alt='vuex'/> [vuex](https://vuex.vuejs.org) – State Management Library
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [steveny2k/newbee-mall-vue-app](https://github.com/steveny2k/newbee-mall-vue-app)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|25<br/>Tools used|11/10/23 <br/>Report generated|
+|25<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -155,4 +159,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
